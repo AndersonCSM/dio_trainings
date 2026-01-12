@@ -7,10 +7,10 @@ English: Curated notes, exercises, and personal projects developed while complet
 Português: Materiais autorais de estudo e prática realizados durante formações e desafios da DIO, organizados para fins educacionais e de portfólio.
 
 ## Formações
-- [Lógica de Programação](Formacoes/Logica-de-Programacao/) — Concluído
-- [GitHub Certification](Formacoes/GitHub-Certification/) — Concluído
-- [Python Fundamentals](Formacoes/Python-Fundamentals/) — Concluído
-- [C/C++ Developer](Formacoes/C-Cpp-Developer/) — Concluído
+- [Lógica de Programação](Formacoes/Logica-de-Programacao/) — Done
+- [GitHub Certification](Formacoes/GitHub-Certification/) — Done
+- [Python Fundamentals](Formacoes/Python-Fundamentals/) — Done
+- [C/C++ Developer](Formacoes/C-Cpp-Developer/) — Done
 - [Java Fundamentals](Formacoes/Java-Fundamentals/)
 - [Java Developer](Formacoes/Java-Developer/)
 - [SQL Specialist](Formacoes/SQL-Specialist/)
