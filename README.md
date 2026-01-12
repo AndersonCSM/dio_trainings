@@ -40,5 +40,4 @@ Português: Materiais autorais de estudo e prática realizados durante formaçõ
 - (Em breve)
 
 ## Contato
-- GitHub: [https://github.com/AndersonCSM](https://github.com/AndersonCSM)
 - Email: andersoncarlos799@gmail.com
