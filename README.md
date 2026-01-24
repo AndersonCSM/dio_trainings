@@ -12,25 +12,25 @@ Repository for Digital Innovation One (DIO) training materials
 
 ### beginner
 
-* [Lógica de Programação](Formacoes/Logica-de-Programacao/) — Done
-* [GitHub Certification](Formacoes/GitHub-Certification/) — Done
-* [Python Fundamentals](Formacoes/Python-Fundamentals/) — Done
-* [Linux Fundamentals](Formacoes/Linux-Fundamentals/) — Progress - 4d
-* [Java Fundamentals](Formacoes/Java-Fundamentals/) — Progress - 11d
+* [Lógica de Programação](formacoes/logica-de-programacao/) — Done
+* [GitHub Certification](formacoes/github-certification/) — Done
+* [Python Fundamentals](formacoes/python-fundamentals/) — Done
+* [Linux Fundamentals](formacoes/linux-fundamentals/) — Progress - 4d
+* [Java Fundamentals](formacoes/java-fundamentals/) — Progress - 11d
 
 ### intermediate
 
-* [C/C++ Developer](Formacoes/C-Cpp-Developer/) — Done
-* [Java Developer](Formacoes/Java-Developer/) — 43d
-* [Docker Fundamentals](Formacoes/Docker-Fundamentals/) — 6d
-* [Kubernetes Fundamentals](Formacoes/Kubernetes-Fundamentals/) — 8d
-* [Fundamentos de IA](Formacoes/Fundamentos-de-IA/) — Done
+* [C/C++ Developer](formacoes/c-cpp-developer/) — Done
+* [Java Developer](formacoes/java-developer/) — 43d
+* [Docker Fundamentals](formacoes/docker-fundamentals/) — 6d
+* [Kubernetes Fundamentals](formacoes/kubernetes-fundamentals/) — 8d
+* [Fundamentos de IA](formacoes/fundamentos-de-ia/) — Done
 
 ### advanced
 
-* [Scrum Master](Formacoes/Scrum-Master/) — Done
-* [SQL Specialist](Formacoes/SQL-Specialist/) — 33d
-* [Programação Reativa com Spring WebFlux](Formacoes/Programacao-Reativa-Spring-WebFlux/) — 20d
+* [Scrum Master](formacoes/scrum-master/) — Done
+* [SQL Specialist](formacoes/sql-specialist/) — 33d
+* [Programação Reativa com Spring WebFlux](formacoes/programacao-reativa-spring-webflux/) — 20d
 
 ---
 ## Stand-by
@@ -38,13 +38,13 @@ Repository for Digital Innovation One (DIO) training materials
 * [AWS CLF-02 Practitioner]()
 
 ### intermediate
-* [Power BI](Formacoes/Power-BI/)
-* [Python Backend](Formacoes/Python-Backend/)
-* [AWS Cloud Practitioner](Formacoes/AWS-Cloud-Practitioner/) 
+* [Power BI](formacoes/power-bi/)
+* [Python Backend](formacoes/python-backend/)
+* [AWS Cloud Practitioner](formacoes/aws-cloud-practitioner/) 
 
 ### advanced
-* [Machine Learning Specialist](Formacoes/Machine-Learning-Specialist/)
-* [IoT](Formacoes/IoT/)
+* [Machine Learning Specialist](formacoes/machine-learning-specialist/)
+* [IoT](formacoes/iot/)
 ---
 ## Bootcamps
 
@@ -132,6 +132,6 @@ Repository for Digital Innovation One (DIO) training materials
 
 * Codecamp 2nd Edition
 
-## Contato
+## Contact
 
 * Email: andersoncarlos799@gmail.com
