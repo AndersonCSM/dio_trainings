@@ -1,0 +1,2 @@
+[2024-06-21 13:46:28 Função 'criar_cliente' executada com argumentos ([],) e {}]Retornou <PessoaFisica: ('1')>
+[2024-06-25 23:16:02 Função 'criar_cliente' executada com argumentos ([],) e {}]Retornou <PessoaFisica: ('1')>
