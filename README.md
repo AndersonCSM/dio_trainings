@@ -22,7 +22,7 @@ Repository for Digital Innovation One (DIO) training materials
 
 * [C/C++ Developer](formacoes/c-cpp-developer/) — Done
 * [Java Developer](formacoes/java-developer/) — 43d
-* [Docker Fundamentals](formacoes/docker-fundamentals/) — 6d
+* [Docker Fundamentals](formacoes/docker-fundamentals/) — Done
 * [Kubernetes Fundamentals](formacoes/kubernetes-fundamentals/) — 8d
 * [Fundamentos de IA](formacoes/fundamentos-de-ia/) — Done
 
