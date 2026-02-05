@@ -2,13 +2,13 @@
 
 Projeto Java para gerenciamento e persistência de dados com JDBC.
 
-## 📋 Pré-requisitos
+## Pré-requisitos
 
 - Java 11 ou superior
 - Gradle 7+ (incluído via wrapper)
 - MySQL ou PostgreSQL
 
-## 🔧 Configuração
+## Configuração
 
 ### 1. Configurar Banco de Dados
 
@@ -27,8 +27,6 @@ db.name=seu_banco
 db.username=seu_usuario
 db.password=sua_senha
 ```
-
-⚠️ **IMPORTANTE**: O arquivo `db.properties` está no `.gitignore` e **NUNCA** será commitado por segurança.
 
 ### 2. Compilar o Projeto
 
@@ -54,7 +52,7 @@ Linux/Mac:
 ./gradlew run
 ```
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 BancoSQL/
@@ -68,13 +66,7 @@ BancoSQL/
 └── README.md
 ```
 
-## 🔒 Segurança
-
-- Credenciais de banco de dados devem estar **apenas** em `db.properties`
-- Este arquivo está protegido pelo `.gitignore`
-- Nunca commite senhas ou chaves de API no repositório
-
-## 🛠️ Tecnologias
+## Tecnologias
 
 - Java
 - JDBC
