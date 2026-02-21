@@ -47,8 +47,19 @@ Repository for Digital Innovation One (DIO) training materials
 * [Programação Reativa com Spring WebFlux](formacoes/programacao-reativa-spring-webflux/)
 ---
 ## Bootcamps
-
 ### beginner
+* Santander - Preparatório Certificação AWS
+* Klabin - Análise de dados com Excel e Power Bi
+* Suzano - Análise de Dados com Power Bi
+* Bradesco - GenAI \& Dados
+* Santander - Ciência de Dados com Python
+* Database Experience
+* Unimed-BH - Ciência de dados
+* IFood - Ciência de dados com Python
+
+* Luizalabs - Backend com Python
+* Vivo - Python AI backend Developer
+
 * Santander - Linux para iniciantes
 * Linux do Zero
 * Santander - Automação N8N
@@ -63,8 +74,29 @@ Repository for Digital Innovation One (DIO) training materials
 * Quebec - Java Digital
 
 ### intermediate
-* Bootcamp Cloud AWS
+* Sysvision - Data Analytics com Power Bi
+* Neo4j - Análise de dados com Grafos
+* Randstad - Análise de dados
+* NTT DATA - Engenharia de Dados com Python
+* Squadio - Python Data Analytics
+* Santander Bootcamp 2023 - Ciência de dados
+* Banco Carrefour - Data Engineer
+
+* Santander - Backend com Python
+* Suzano - Python DEveloper
+
 * Linux Experience 
+* Bootcamp Cloud AWS
+
+### advanced
+* Cognizant - Cloud Data Engineer 2
+
+* BairesDev - Machine Learning Traning
+* BairesDev - Machine Learning Practitioner
+
+---
+## Stand-by
+### intermediate
 * Santander - Backend com Java
 * Avanade - Decola Tech
 * Bradesco - Java Cloud Native
@@ -92,40 +124,6 @@ Repository for Digital Innovation One (DIO) training materials
 * Claro - Java com Spring Boot
 * Tonne - Java IA Powered
 * Cognizant - Arquitetura com Spring e Cloud
-
----
-## Stand-by
-### beginner
-* Santander - Preparatório Certificação AWS
-
-* Klabin - Análise de dados com Excel e Power Bi
-* Suzano - Análise de Dados com Power Bi
-* Bradesco - GenAI \& Dados
-* Santander - Ciência de Dados com Python
-* Database Experience
-* Unimed-BH - Ciência de dados
-* IFood - Ciência de dados com Python
-
-* Luizalabs - Backend com Python
-* Vivo - Python AI backend Developer
-
-### intermediate
-* Sysvision - Data Analytics com Power Bi
-* Neo4j - Análise de dados com Grafos
-* Randstad - Análise de dados
-* NTT DATA - Engenharia de Dados com Python
-* Squadio - Python Data Analytics
-* Santander Bootcamp 2023 - Ciência de dados
-* Banco Carrefour - Data Engineer
-
-* Santander - Backend com Python
-* Suzano - Python DEveloper
-
-### advanced
-* Cognizant - Cloud Data Engineer 2
-
-* BairesDev - Machine Learning Traning
-* BairesDev - Machine Learning Practitioner
 
 ---
 ## CodeCamps
