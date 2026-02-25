@@ -1,4 +1,4 @@
-# BancoSQL - Projeto de Banco de Dados
+# banco-sql - Projeto de Banco de Dados
 
 Projeto Java para gerenciamento e persistência de dados com JDBC.
 
@@ -55,7 +55,7 @@ Linux/Mac:
 ## Estrutura do Projeto
 
 ```
-BancoSQL/
+banco-sql/
 ├── src/main/java/br/com/dio/
 │   ├── Main.java
 │   └── persistence/
