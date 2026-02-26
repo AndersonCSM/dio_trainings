@@ -48,7 +48,7 @@ Repository for Digital Innovation One (DIO) training materials
 ---
 ## Bootcamps
 ### beginner
-* Santander - Preparatório Certificação AWS
+* Santander - Preparatório Certificação AWS - 1
 * Klabin - Análise de dados com Excel e Power Bi
 * Suzano - Análise de Dados com Power Bi
 * Bradesco - GenAI \& Dados
@@ -60,8 +60,8 @@ Repository for Digital Innovation One (DIO) training materials
 * Luizalabs - Backend com Python
 * Vivo - Python AI backend Developer
 
-* Santander - Linux para iniciantes
-* Linux do Zero
+* Santander - Linux para iniciantes - 1
+* Linux do Zero - 1
 * Santander - Automação N8N
 * Riachuelo - Primeiros passos com Java
 * GFT - Start Java
